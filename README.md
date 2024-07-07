@@ -1,6 +1,6 @@
 # Towel Depot Calculators
 
-Welcome to the Towel Depot Calculators repository! This project contains a collection of useful calculators designed to help businesses in various industries make informed decisions about their towel purchases and usage. These calculators are aimed at enhancing user experience, driving traffic to the Towel Depot website, and providing valuable insights to our customers.
+Welcome to the [Towel Depot](https://thetoweldepot.com) Calculators repository! This project contains a collection of useful calculators designed to help businesses in various industries make informed decisions about their towel purchases and usage. These calculators are aimed at enhancing user experience, driving traffic to the Towel Depot website, and providing valuable insights to our customers.
 
 ## Table of Contents
 
